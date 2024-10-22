@@ -332,5 +332,9 @@ display: none;
         padding: 12px 10px 12px 10px;
     }
 
-
+      .text{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        border: 2px solid black     }
 }
